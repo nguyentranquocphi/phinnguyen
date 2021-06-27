@@ -1,0 +1,445 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.navbar{
+    z-index: 1 !important;
+    Width: 100% !important;
+    Margin-right: 0px !important;
+    Margin-left: 0px !important;
+    Left: 0px !important;
+    Right: 0px !important;
+    Position: fixed !important;
+}
+.navbar-light .navbar-nav .nav-home {
+    color: #2fd3ae !important;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #2fd3ae !important;
+}
+.container-fluid>a>img{
+    width: 250px;
+
+}
+.container-fluid{
+    padding: 10px 0px;
+}
+.navbar-nav
+{
+    margin-left: 70px;
+}
+.nav-item{
+    
+    padding-right: 15px;
+    font-size: 14px;
+}
+.btn-buy{
+   border: 1px solid #d6d9dc !important;
+    font-weight: bold !important;
+    padding: 15px 40px !important;
+    margin-right: 10px !important;
+    
+}
+.btn-buy:hover{
+    border: 1px solid #fff !important;
+    background: #2fd3ae !important;
+    color: #fff !important;
+    transition: 1s;
+}
+.btn-buy-1{
+    border: 1px solid black!important;
+    background-color: black !important;
+    color: #fff !important;
+     font-weight: bold !important;
+     padding: 15px 40px !important;
+     margin-right: 10px !important;
+ }
+ .btn-buy-1:hover{
+     border: 1px solid #2fd3ae  !important;
+     background: #2fd3ae !important;
+     color: #fff !important;
+     transition: 1s;
+ }
+ .btn-buy-2{
+    border: 1px solid #2fd3ae  !important;
+     background: #2fd3ae !important;
+     color: #fff !important;
+     font-weight: bold !important;
+     padding: 15px 40px !important;
+     margin-right: 10px !important;
+ }
+ .btn-buy-2:hover{
+    border: 1px solid black!important;
+    background-color: black !important;
+    color: #fff !important;
+     transition: 1s;
+ }
+ .txt{
+     color: black;
+ }
+ .carousel-caption 
+ {
+    padding-bottom: 250px !important;
+ }
+ .img1{
+    padding-bottom: 20px;
+}
+.btn-slider{
+    padding-top: 25px;
+}
+.txt-1{
+    font-weight: 30px;
+    font-size: 50px;
+}
+.btn-buy-3{
+    border: 1px solid #ffffff  !important;
+     color: #fff !important;
+     font-weight: bold !important;
+     padding: 15px 40px !important;
+     margin-right: 10px !important;
+}
+.btn-buy-3:hover{
+    border: 1px solid #ffffff!important;
+    background-color: #ffffff !important;
+    color: black!important;
+     transition: 1s;
+ }
+ .carousel-caption>.slider-2{
+    text-align: left !important;
+    
+ }
+ .txt-h1{
+     padding-bottom: 25px;
+ }
+ .content{
+     text-align: center;
+     padding:120px 0px;
+ }
+ .content h1{
+     padding-bottom: 25px;
+ }
+ .content p{
+    color:#888888;
+ }
+ .content-1{
+    background-color: #f8f8f8;
+ }
+ .txt-2{
+     padding-top: 50px;
+ }
+ .txt-2>p{
+     padding-top: 25px;
+     color: #888888;
+ }
+ .content-2{
+     padding: 100px 0px;
+ }
+ .txt-3{
+    padding-top: 110px;
+    padding-left: 110px !important;
+ }
+ .txt-3 p{
+    color: #888888;
+    padding-top: 25px;
+ }
+ .content-3{
+     background-color: #f8f8f8;
+     padding: 80px 0px;
+ }
+ .colum-1{
+     display: flex;
+ }
+.icon-txt{
+    font-size: 25px;
+    padding-right: 10px;
+    color: #2fd3ae ;
+}
+.nd-cot-1>p{
+    padding-top: 25px;
+    color: #888888;
+    font-size: 18px;
+}
+.content-4{
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.gallery-wrap>.col-6>img{
+    padding-top: 25px;
+}
+.txt-4{
+    padding-top: 130px;
+}
+.txt-4 p{
+    padding: 25px 0px;
+}
+.content-5{
+    background: url(../images/parallax-01.jpg) no-repeat center;
+    padding: 100px 0px;
+    text-align: center;
+    color: #fff;
+}
+.content-5>.container>.row>p{
+    padding-top: 25px;
+    font-size: 15px;
+}
+.content-5>.container>.row>a{
+    color: #fff;
+    background-color: #2fd3ae;
+    padding: 25px 50px;
+}
+.btn-view{
+    padding-top: 25px;
+}
+.content-6{
+    text-align: center;
+    padding: 100px 0px;
+}
+.txt-5>p{
+    padding: 25px 0px;
+    color: #888888;
+}
+.txt-name{
+    padding-top: 20px;
+}
+.txt-name>a
+{
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
+    font-size: 25px;
+}
+.txt-name>a:hover{
+    color: #2fd3ae;
+    transition: 0.75s;
+}
+.txt-name>p{
+    color: #888888;
+}
+.content-7>.row>.col-3>img{
+    padding-top: 15px;
+}
+.content-7>.row>.col-3>img:hover{
+    color: #2fd3ae;
+}
+.content-8{
+    text-align: center;
+    padding: 100px 0px;
+}
+.content-8>.container>.row>h1{
+   padding-bottom: 50px;
+}
+.txt-6{
+    text-align: initial;
+    padding: 20px 0px;
+}
+.txt-6>a>span>i{
+    padding-left: 10px;
+}
+.txt-6>a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+.txt-6>a:hover{
+    color: #2fd3ae;
+    transition: 00.75s;
+}
+.txt-6>h4:hover{
+    color: #2fd3ae;
+    transition: 00.75s;
+}
+.txt-7{
+    font-size: 14px;
+    padding: 10px 0px;
+}
+.txt-7 a{
+    text-decoration: none;
+    color: #2fd3ae;
+    padding-right: 20px;
+}
+.txt-7 a:hover{
+    color: #109c7c;
+}
+.content-9{
+    padding: 50px 0px;
+    text-align: center;
+    background-color: #f8f8f8;
+}
+.txt-8{
+    font-size: 20px;
+    padding-top: 20px;
+}
+.txt-8>img{
+    padding: 20px 0px;
+}
+.content-10{
+    background-color: #2fd3ae;
+    color: #fff;
+    padding-top: 100px;
+}
+.txt-9>p{
+    font-size: 18px;
+    padding: 20px 0px;
+}
+
+.btn-buy-4{
+    border: 1px solid #fdfdfd  !important;
+     background: #2fd3ae !important;
+     color: #fff !important;
+     font-weight: bold !important;
+     padding: 15px 40px !important;
+     margin-right: 10px !important;
+ }
+ .btn-buy-4:hover{
+    border: 1px solid #fff!important;
+    background-color: #fff !important;
+    color: black!important;
+     transition: 1s;
+ }
+ 
+ .content-11{
+     padding: 100px 0px;
+     text-align: center;
+ }
+ .txt-10>h3{
+    padding-bottom: 25px;
+ }
+ input[type=email]
+ {
+    width: 250px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('../images/email.png');
+    background-position: 5px 5px; 
+    background-repeat: no-repeat;
+    padding: 12px 25px 17px 39px;
+ }
+ input[type=email]:hover
+ {
+    border: 2px solid #2fd3ae;
+ }
+ .content-12{
+     background-color: #f8f8f8;
+     padding: 50px 0px;  
+ }
+ .nd>ul{
+     padding-left: 0px;
+ }
+.nd>ul>li{
+    list-style-type: none;
+    padding-bottom: 5px;
+}
+.nd>ul>li>a{
+    color: #2fd3ae;
+    text-decoration: none;
+}
+.nd>ul>li>a:hover{
+    color: #1f957b;
+    transition: 0.50s;
+}
+.nd1>ul{
+    padding-left: 0px;
+}
+.nd1>ul>li{
+   list-style-type: none;
+   padding-bottom: 10px;
+}
+.nd1>ul>li>span{
+    font-size: 13px;
+    color: #888888;
+}
+.nd1>ul>li>a{
+    color: black;
+    text-decoration: none;
+}
+.nd1>ul>li>a:hover{
+    color: #2fd3ae;
+    transition: 0.30s;
+}
+
+.nd2>ul{
+    padding-left: 0px;
+}
+.nd2>ul>li{
+    color: #888888;
+   list-style-type: none;
+   padding-bottom: 10px;
+}
+.nd2>ul>li>a{
+   color: #2fd3ae;
+   text-decoration: none;
+}
+.nd2>ul>li>a:hover{
+   color: #1f957b;
+   transition: 0.50s;
+}
+.nd>h5{
+    padding-bottom: 15px;
+}
+.nd1>h5{
+    padding-bottom: 15px;
+}
+.nd2>h5{
+    padding-bottom: 15px;
+}   
+.nd>p{
+    color: #888888;
+}
+footer{
+   
+    padding: 20px 0px;
+}
+.logo-footer{
+    color: #888888;
+    float: left;
+    margin-bottom: 0px;
+}
+.icon-footer{
+    float: right;
+}
+.icon-footer>i{
+    color: #2fd3ae;
+    padding-right: 10px;
+}
+.icon-footer>i:hover{
+    color: black;
+}   
+.top>a{
+    color: #2fd3ae;
+    font-size: 45px;
+    float: right;
+}
+.top>a:hover{
+    color: black;
+}
+.top { bottom: 4%; right: 50px; cursor: pointer;  position: fixed; z-index: 1000;}
+
+@media (max-width: 576px){ 
+    .btn-buy{
+        display: none !important;
+    }
+    .txt-3{
+    text-align: center;
+    padding-top: 110px;
+    padding-left: 0px !important;
+    }
+    .gallery{
+        margin-left: 118px;
+    }
+    .txt-4{
+        padding-top: 0px;
+    }
+    footer{
+        text-align: center;
+    }
+    .logo-footer{
+        float: none;
+    }
+    .icon-footer{
+        float: none;
+    }
+  
+ }
